@@ -27,15 +27,15 @@ const Winebar = () => {
   // Gallery images
   const galleryImages = [
     //"https://www.coravin.com.es/cdn/shop/articles/AdobeStock_451146882_c67abea8-b0f0-4357-aba2-35f409370f5a.jpg?v=1732041951",
-    "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=1470&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1560148218-1a83060f7b32?q=80&w=1470&auto=format&fit=crop",
-    "https://images.ctfassets.net/rxqefefl3t5b/2Wql3kKuliWgtXzePIDuYA/2e26e4e4145aaedccd3eb02ec513f8cc/Perez_Cruz_05.jpg?fl=progressive&q=80",
-    "https://images.unsplash.com/photo-1528823872057-9c018a7a7553?q=80&w=1470&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1546944517-4f38480ff03c?q=80&w=1470&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1547595628-c61a29f496f0?q=80&w=1470&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1597043851759-3b383a6d1c14?q=80&w=1374&auto=format&fit=crop",
-    "https://www.splashwines.com/cdn/shop/files/P-FABFRENCHRED.png?v=1740176749",
-    "https://www.virginwines.co.uk/hub/wp-content/uploads/2023/03/Different-wine-glass-shapes-and-sizes-on-a-white-surface-2560x1440.jpg",
+   // "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=1470&auto=format&fit=crop",
+    //"https://images.unsplash.com/photo-1560148218-1a83060f7b32?q=80&w=1470&auto=format&fit=crop",
+   // "https://images.ctfassets.net/rxqefefl3t5b/2Wql3kKuliWgtXzePIDuYA/2e26e4e4145aaedccd3eb02ec513f8cc/Perez_Cruz_05.jpg?fl=progressive&q=80",
+    //"https://images.unsplash.com/photo-1528823872057-9c018a7a7553?q=80&w=1470&auto=format&fit=crop",
+    //"https://images.unsplash.com/photo-1546944517-4f38480ff03c?q=80&w=1470&auto=format&fit=crop",
+    //"https://images.unsplash.com/photo-1547595628-c61a29f496f0?q=80&w=1470&auto=format&fit=crop",
+    //"https://images.unsplash.com/photo-1597043851759-3b383a6d1c14?q=80&w=1374&auto=format&fit=crop",
+    //"https://www.splashwines.com/cdn/shop/files/P-FABFRENCHRED.png?v=1740176749",
+    //"https://www.virginwines.co.uk/hub/wp-content/uploads/2023/03/Different-wine-glass-shapes-and-sizes-on-a-white-surface-2560x1440.jpg",
   ];
 
   return (
