@@ -34,7 +34,7 @@ const WineShop = () => {
         id: 1,
         name: "Rebula Medot",
         price: 15.99,
-        image: "https://cdn-ca.dg1.services/6/705/4931/o/medot-site-rebula-big.png",
+        image: "https://i.imgur.com/ZHwIV0w.png",
         descriptionKey: "rebula",
         region: "Goriška Brda",
         year: 2020
@@ -43,7 +43,7 @@ const WineShop = () => {
         id: 2,
         name: "Teran Kras",
         price: 18.50,
-        image: "https://vinakobal.com/wp-content/uploads/2021/01/teran-840x1335-1.png",
+        image: "https://i.imgur.com/cRMfUwF.png",
         descriptionKey: "teran",
         region: "Kras",
         year: 2019
@@ -52,7 +52,7 @@ const WineShop = () => {
         id: 3,
         name: "Malvazija Vipava",
         price: 12.75,
-        image: "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/h97/h4e/13281585135646.png",
+        image: "https://i.imgur.com/GgY9htC.png",
         descriptionKey: "malvazija",
         region: "Vipava Valley",
         year: 2021
@@ -61,7 +61,7 @@ const WineShop = () => {
         id: 4,
         name: "Refošk Premium",
         price: 22.99,
-        image: "https://images.vivino.com/thumbs/M--nT_j4RV2ZWPujiyV46g_pb_x960.png",
+        image: "https://i.imgur.com/yIWKptj.png",
         descriptionKey: "refosk",
         region: "Slovenian Istria",
         year: 2018
@@ -70,7 +70,7 @@ const WineShop = () => {
         id: 5,
         name: "Sauvignon Blanc",
         price: 14.50,
-        image: "https://www.vinatis.es/94519-detail_default/sauvignon-blanc-2024-cloudy-bay.png",
+        image: "https://i.imgur.com/ewUvPrM.png",
         descriptionKey: "sauvignon",
         region: "Štajerska",
         year: 2020
@@ -80,7 +80,7 @@ const WineShop = () => {
         id: 6,
         name: "Merlot Brda",
         price: 19.99,
-        image: "https://www.vinello.es/media/image/ff/7f/a5/merlot-goriska-brda-princic_800x800.png",
+        image: "https://i.imgur.com/CVPXctD.png",
         descriptionKey: "merlot",
         region: "Goriška Brda",
         year: 2018
@@ -89,7 +89,7 @@ const WineShop = () => {
         id: 7,
         name: "Rumeni Muškat",
         price: 16.25,
-        image: "https://bordon-wines.com/wp-content/uploads/2021/03/rumeni_mus%CC%8Ckat@3x.png",
+        image: "https://i.imgur.com/Zbuo8vQ.png",
         descriptionKey: "muskat",
         region: "Jeruzalem",
         year: 2021
@@ -98,7 +98,7 @@ const WineShop = () => {
         id: 8,
         name: "Pinot Noir",
         price: 24.50,
-        image: "https://www.maset.com/cdnassets/products/red-wines/lg/bottle/pinot-noir-lg-1.png",
+        image: "https://i.imgur.com/s7EgShd.png",
         descriptionKey: "pinot",
         region: "Vipava Valley",
         year: 2019
@@ -107,7 +107,7 @@ const WineShop = () => {
         id: 9,
         name: "Chardonnay Reserves",
         price: 21.75,
-        image: "https://www.vinatis.es/91598-detail_default/reserve-chardonnay-2022-glenelly.png",
+        image: "https://i.imgur.com/DtkQcct.png",
         descriptionKey: "chardonnay",
         region: "Štajerska",
         year: 2018
@@ -117,7 +117,7 @@ const WineShop = () => {
         id: 10,
         name: "Zelen Heritage",
         price: 17.99,
-        image: "https://www.drinx.si/slir/w600-q90/modules/uploader/uploads/s_product/pics_s_product/vino-zelen-ferjancic-075-l-21024-0.png",
+        image: "https://i.imgur.com/6BMNlbS.png",
         descriptionKey: "zelen",
         region: "Vipava Valley",
         year: 2020
@@ -126,7 +126,7 @@ const WineShop = () => {
         id: 11,
         name: "Cabernet Sauvignon",
         price: 25.50,
-        image: "https://www.vinatis.es/68333-detail_default/cabernet-sauvignon-2020-dominio-la-haute-brande.png",
+        image: "https://i.imgur.com/AvVzpHS.png",
         descriptionKey: "cabernet",
         region: "Slovenian Istria",
         year: 2017
@@ -135,7 +135,7 @@ const WineShop = () => {
         id: 12,
         name: "Cuvée White",
         price: 13.25,
-        image: "https://www.vinello.es/media/image/cc/fb/c2/mrs-white-cuvee-blanc-weinhaus-steffen.png",
+        image: "https://i.imgur.com/uaONZRO.png",
         descriptionKey: "cuvee",
         region: "Goriška Brda",
         year: 2021
@@ -144,7 +144,7 @@ const WineShop = () => {
         id: 13,
         name: "Modra Frankinja",
         price: 20.99,
-        image: "https://suklje.com/wp-content/uploads/2019/11/uklje-fresh-line-Modra-frankinja.png",
+        image: "https://i.imgur.com/uahX6pQ.png",
         descriptionKey: "modra",
         region: "Dolenjska",
         year: 2019
@@ -154,7 +154,7 @@ const WineShop = () => {
         id: 14,
         name: "Orange Wine",
         price: 28.50,
-        image: "https://images.vivino.com/thumbs/MbKiRqBaQoeUOrJvgF4o3g_pb_x960.png",
+        image: "https://i.imgur.com/F2uZdaP.png",
         descriptionKey: "orange",
         region: "Goriška Brda",
         year: 2018
@@ -163,7 +163,7 @@ const WineShop = () => {
         id: 15,
         name: "Rosé Refresh",
         price: 11.99,
-        image: "https://www.petitewine.com/cdn/shop/files/PikasiBarberaRose.png?v=1720210889",
+        image: "https://i.imgur.com/VInIT8C.png",
         descriptionKey: "rose",
         region: "Vipava Valley",
         year: 2021
@@ -181,7 +181,7 @@ const WineShop = () => {
         id: 17,
         name: "Sivi Pinot",
         price: 15.50,
-        image: "https://www.vinello.es/media/image/3a/2d/2c/sivi-pinot-princic_800x800.png",
+        image: "https://i.imgur.com/5BRJdUs.png",
         descriptionKey: "sivi",
         region: "Štajerska",
         year: 2020
@@ -191,7 +191,7 @@ const WineShop = () => {
         id: 18,
         name: "Sparkling Brut",
         price: 27.99,
-        image: "https://images.vivino.com/thumbs/QFXyO5NRRdKW8r9remBEGQ_pb_x960.png",
+        image: "https://i.imgur.com/dUifLMZ.png",
         descriptionKey: "sparkling",
         region: "Bizeljsko",
         year: 2018
@@ -200,7 +200,7 @@ const WineShop = () => {
         id: 19,
         name: "Barbera Reserve",
         price: 29.50,
-        image: "https://be.bbvwine.com/app/uploads/2024/01/Barbera-Reserve-2021.png",
+        image: "https://i.imgur.com/Wq2eWEv.png",
         descriptionKey: "barbera",
         region: "Slovenian Istria",
         year: 2016
@@ -209,7 +209,7 @@ const WineShop = () => {
         id: 20,
         name: "Šipon Classic",
         price: 14.75,
-        image: "https://weinnatur.de/cdn/shop/files/MaticSiponClassic.jpg?v=1717774420",
+        image: "https://i.imgur.com/EUhkKbT.png",
         descriptionKey: "sipon",
         region: "Jeruzalem",
         year: 2021
