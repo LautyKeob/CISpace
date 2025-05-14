@@ -26,16 +26,16 @@ const Winebar = () => {
 
   // Gallery images
   const galleryImages = [
-    "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?q=80&w=1470&auto=format&fit=crop",
+    "https://www.coravin.com.es/cdn/shop/articles/AdobeStock_451146882_c67abea8-b0f0-4357-aba2-35f409370f5a.jpg?v=1732041951",
     "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=1470&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1560148218-1a83060f7b32?q=80&w=1470&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1510018572596-e40e2619b412?q=80&w=1470&auto=format&fit=crop",
+    "https://images.ctfassets.net/rxqefefl3t5b/2Wql3kKuliWgtXzePIDuYA/2e26e4e4145aaedccd3eb02ec513f8cc/Perez_Cruz_05.jpg?fl=progressive&q=80",
     "https://images.unsplash.com/photo-1528823872057-9c018a7a7553?q=80&w=1470&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1546944517-4f38480ff03c?q=80&w=1470&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1547595628-c61a29f496f0?q=80&w=1470&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1597043851759-3b383a6d1c14?q=80&w=1374&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1506377247377-2c4b6f6c7a18?q=80&w=1470&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1588867702911-df3c682c98d5?q=80&w=1470&auto=format&fit=crop",
+    "https://www.splashwines.com/cdn/shop/files/P-FABFRENCHRED.png?v=1740176749",
+    "https://www.virginwines.co.uk/hub/wp-content/uploads/2023/03/Different-wine-glass-shapes-and-sizes-on-a-white-surface-2560x1440.jpg",
   ];
 
   return (
@@ -46,7 +46,7 @@ const Winebar = () => {
       <section id="hero" className="relative h-[70vh] overflow-hidden">
         <div className="absolute inset-0 z-10 bg-black/60"></div>
         <img 
-          src="https://images.unsplash.com/photo-1510018572596-e40e2619b412?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80" 
+          src="https://www.mywanderlustylife.com/wp-content/uploads/2024/01/wine-tasting-in-slovenia-best-wineries-regions-tours-FEATURED.png" 
           alt="Wine Bar" 
           className="w-full h-full object-cover"
         />
