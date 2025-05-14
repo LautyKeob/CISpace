@@ -26,7 +26,7 @@ const Winebar = () => {
 
   // Gallery images
   const galleryImages = [
-    "https://www.coravin.com.es/cdn/shop/articles/AdobeStock_451146882_c67abea8-b0f0-4357-aba2-35f409370f5a.jpg?v=1732041951",
+    //"https://www.coravin.com.es/cdn/shop/articles/AdobeStock_451146882_c67abea8-b0f0-4357-aba2-35f409370f5a.jpg?v=1732041951",
     "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=1470&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1560148218-1a83060f7b32?q=80&w=1470&auto=format&fit=crop",
     "https://images.ctfassets.net/rxqefefl3t5b/2Wql3kKuliWgtXzePIDuYA/2e26e4e4145aaedccd3eb02ec513f8cc/Perez_Cruz_05.jpg?fl=progressive&q=80",
