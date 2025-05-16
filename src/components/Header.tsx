@@ -62,9 +62,8 @@ const Header = ({ navItems, logoUrl, logoWidth = 150, logoHeight = 40 }: HeaderP
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo area */}
         <Link to="/" className="flex items-center">
-          {logoUrl ? (
             <img 
-              src={"https://cispace.isaci.com/wp-content/uploads/2023/01/logo-vector-1-1.png"} 
+              src="https://cispace.isaci.com/wp-content/uploads/2023/01/logo-vector-1-1.png"
               alt="CISpace Logo" 
               width={logoWidth} 
               height={logoHeight}
