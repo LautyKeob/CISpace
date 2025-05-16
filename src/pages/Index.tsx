@@ -20,7 +20,7 @@ const Index = () => {
   // Images for locations slider
   const locationImages = [
     { 
-      src: "https://media-cdn.tripadvisor.com/media/photo-s/19/8c/f6/40/event-room-very-flexible.jpg", 
+      src: "https://i.imgur.com/aT5dato.jpeg", 
       alt: "CISpace Coworking Area" 
     },
     { 
@@ -28,7 +28,7 @@ const Index = () => {
       alt: "CISpace Wine Bar" 
     },
     { 
-      src: "https://media-cdn.tripadvisor.com/media/photo-s/19/8c/fc/22/the-cispace-mission-is.jpg", 
+      src: "https://i.imgur.com/dAXbZUd.jpeg", 
       alt: "CISpace Event Space" 
     },
   ];

@@ -46,7 +46,7 @@ const Winebar = () => {
       <section id="hero" className="relative h-[70vh] overflow-hidden">
         <div className="absolute inset-0 z-10 bg-black/60"></div>
         <img 
-          src="https://www.mywanderlustylife.com/wp-content/uploads/2024/01/wine-tasting-in-slovenia-best-wineries-regions-tours-FEATURED.png" 
+          src="https://i.imgur.com/jnLMpdX_d.webp?maxwidth=760&fidelity=grand" 
           alt="Wine Bar" 
           className="w-full h-full object-cover"
         />
@@ -108,7 +108,7 @@ const Winebar = () => {
           <div className="flex flex-col md:flex-row-reverse items-center gap-8">
             <div className="md:w-1/3">
               <img 
-                src="assets/image/Wine-tasting.jpg" 
+                src="https://i.imgur.com/yDPDpoA_d.webp?maxwidth=760&fidelity=grand" 
                 alt="Wine tasting" 
                 className="w-full h-auto rounded-lg shadow-md"
               />
