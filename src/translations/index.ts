@@ -13,6 +13,22 @@ const translations = {
       blog: "Wineblog",
       gallery: "Gallery"
     },
+    footer: {
+      termsConditions: "Terms & Conditions",
+      privacyPolicy: "Privacy Policy",
+      legalNotice: "Legal Notice",
+      cookiePolicy: "Cookie Policy"
+    },
+    legal: {
+      termsTitle: "Terms and Conditions",
+      termsContent: "These Terms and Conditions govern your use of CISpace services and facilities. By using our services, you agree to these terms.",
+      privacyTitle: "Privacy Policy",
+      privacyContent: "This Privacy Policy explains how we collect, use, and protect your personal information when you use our services.",
+      legalTitle: "Legal Notice",
+      legalContent: "This Legal Notice contains important information about CISpace, including our business registration details and legal responsibilities.",
+      cookiesTitle: "Cookie Policy",
+      cookiesContent: "Our Cookie Policy explains how we use cookies and similar technologies on our website to enhance your browsing experience."
+    },
     home: {
       coworkingButton: "CISpace Coworking Café & Event space",
       winebarButton: "CISpace Winebar & Wineshop",
@@ -139,6 +155,22 @@ const translations = {
       blog: "Blog de Vinos",
       gallery: "Galería"
     },
+    footer: {
+      termsConditions: "Términos y Condiciones",
+      privacyPolicy: "Política de Privacidad",
+      legalNotice: "Aviso Legal",
+      cookiePolicy: "Política de Cookies"
+    },
+    legal: {
+      termsTitle: "Términos y Condiciones",
+      termsContent: "Estos Términos y Condiciones rigen el uso de los servicios e instalaciones de CISpace. Al utilizar nuestros servicios, aceptas estos términos.",
+      privacyTitle: "Política de Privacidad",
+      privacyContent: "Esta Política de Privacidad explica cómo recopilamos, utilizamos y protegemos tu información personal cuando utilizas nuestros servicios.",
+      legalTitle: "Aviso Legal",
+      legalContent: "Este Aviso Legal contiene información importante sobre CISpace, incluyendo nuestros detalles de registro comercial y responsabilidades legales.",
+      cookiesTitle: "Política de Cookies",
+      cookiesContent: "Nuestra Política de Cookies explica cómo utilizamos cookies y tecnologías similares en nuestro sitio web para mejorar tu experiencia de navegación."
+    },
     home: {
       coworkingButton: "CISpace Café de Coworking y Espacio para Eventos",
       winebarButton: "CISpace Bar de Vinos y Tienda de Vinos",
@@ -264,6 +296,22 @@ const translations = {
       tasting: "Weinprobe",
       blog: "Weinblog",
       gallery: "Galerie"
+    },
+    footer: {
+      termsConditions: "Allgemeine Geschäftsbedingungen",
+      privacyPolicy: "Datenschutzerklärung",
+      legalNotice: "Impressum",
+      cookiePolicy: "Cookie-Richtlinie"
+    },
+    legal: {
+      termsTitle: "Allgemeine Geschäftsbedingungen",
+      termsContent: "Diese Allgemeinen Geschäftsbedingungen regeln Ihre Nutzung der Dienstleistungen und Einrichtungen von CISpace. Mit der Nutzung unserer Dienste stimmen Sie diesen Bedingungen zu.",
+      privacyTitle: "Datenschutzerklärung",
+      privacyContent: "Diese Datenschutzerklärung erläutert, wie wir Ihre personenbezogenen Daten bei der Nutzung unserer Dienste erheben, verwenden und schützen.",
+      legalTitle: "Impressum",
+      legalContent: "Dieses Impressum enthält wichtige Informationen über CISpace, einschließlich unserer Geschäftsregistrierung und rechtlichen Verantwortlichkeiten.",
+      cookiesTitle: "Cookie-Richtlinie",
+      cookiesContent: "Unsere Cookie-Richtlinie erklärt, wie wir Cookies und ähnliche Technologien auf unserer Website verwenden, um Ihr Browsing-Erlebnis zu verbessern."
     },
     home: {
       coworkingButton: "CISpace Coworking Café & Eventfläche",
