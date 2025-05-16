@@ -37,7 +37,7 @@ const VirtualTour = () => {
         
         <div className="flex-1 w-full rounded-lg overflow-hidden shadow-lg mb-6">
           <iframe 
-            src="https://keepeyeonball.com/Tour/939e6eb1-841b-4353-bb2b-10cec2141ece/4K?sc=13&y=-6&p=2&tz=100&r=-0.8429089934410153;0.2550330339666225&l=0;0&mz=0&m=0" 
+            src="https://tour.keepeyeonball.com/Tour/939e6eb1-841b-4353-bb2b-10cec2141ece/4K?sc=2&y=61&p=8&tz=100&r=-1.45;-0.02&l=0.00;0.00&mz=0.00&d=0&m=0" 
             width="100%" 
             height="100%" 
             style={{ border: 0, minHeight: '70vh' }}
