@@ -82,7 +82,7 @@ const Winebar = () => {
           <div className="flex flex-col md:flex-row items-center gap-8">
             <div className="md:w-1/3">
               <img 
-                src="https://images.unsplash.com/photo-1568213816046-0ee1c42bd559?q=80&w=1372&auto=format&fit=crop" 
+                src="https://i.imgur.com/nD4SWOq.jpeg" 
                 alt="Wine glasses" 
                 className="w-full h-auto rounded-lg shadow-md"
               />
