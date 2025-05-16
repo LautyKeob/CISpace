@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Globe, ChevronDown } from 'lucide-react';
+import { Menu, X, Globe, ChevronDown, Eye } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { useTranslation } from '@/hooks/useTranslation';
 
@@ -54,6 +54,9 @@ const Header = ({ navItems, logoUrl, logoWidth = 150, logoHeight = 40 }: HeaderP
     return () => document.removeEventListener('click', handleClickOutside);
   }, []);
 
+  // Check if we're on the home page
+  const isHomePage = location.pathname === '/';
+
   return (
     <header className="fixed w-full bg-white/95 shadow-md z-50 py-3 px-4 md:px-8">
       <div className="container mx-auto flex justify-between items-center">
@@ -74,6 +77,18 @@ const Header = ({ navItems, logoUrl, logoWidth = 150, logoHeight = 40 }: HeaderP
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center space-x-6 justify-end">
+          {/* 360° View Button - Only show on home page */}
+          {isHomePage && (
+            <Link to="/virtual-tour">
+              <Button 
+                className="bg-cispace-orange hover:bg-cispace-orange/90 text-white px-6 py-2 flex items-center gap-2 text-base font-semibold"
+              >
+                <Eye className="h-5 w-5" />
+                360° View
+              </Button>
+            </Link>
+          )}
+
           <ul className="flex space-x-6">
             {navItems.map((item) => (
               <li key={item.key}>
@@ -121,6 +136,19 @@ const Header = ({ navItems, logoUrl, logoWidth = 150, logoHeight = 40 }: HeaderP
 
         {/* Mobile Menu Button */}
         <div className="flex md:hidden items-center space-x-4 justify-end">
+          {/* 360° View Button for mobile - Only show on home page */}
+          {isHomePage && (
+            <Link to="/virtual-tour">
+              <Button 
+                className="bg-cispace-orange hover:bg-cispace-orange/90 text-white px-4 py-2 flex items-center gap-1"
+                size="sm"
+              >
+                <Eye className="h-4 w-4" />
+                360°
+              </Button>
+            </Link>
+          )}
+
           <div className="relative" data-lang-menu>
             <Button 
               variant="ghost" 
