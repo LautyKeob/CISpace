@@ -48,7 +48,7 @@ const Coworking = () => {
       <section className="relative h-[70vh] overflow-hidden">
         <div className="absolute inset-0 z-10 bg-black/60"></div>
         <img 
-          src="https://images.unsplash.com/photo-1517502884422-41eaead166d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1025&q=80" 
+          src="https://i.imgur.com/MXTJyI9.jpeg" 
           alt="Coworking Space" 
           className="w-full h-full object-cover"
         />
