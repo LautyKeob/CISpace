@@ -27,7 +27,7 @@ const Winebar = () => {
   // Gallery images
   const galleryImages = [
     "https://www.coravin.com.es/cdn/shop/articles/AdobeStock_451146882_c67abea8-b0f0-4357-aba2-35f409370f5a.jpg?v=1732041951",
-    "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=1470&auto=format&fit=crop",
+    "https://i.imgur.com/jnLMpdX_d.webp?maxwidth=760&fidelity=grand",
     "https://images.unsplash.com/photo-1560148218-1a83060f7b32?q=80&w=1470&auto=format&fit=crop",
     "https://images.ctfassets.net/rxqefefl3t5b/2Wql3kKuliWgtXzePIDuYA/2e26e4e4145aaedccd3eb02ec513f8cc/Perez_Cruz_05.jpg?fl=progressive&q=80",
     "https://images.unsplash.com/photo-1528823872057-9c018a7a7553?q=80&w=1470&auto=format&fit=crop",
@@ -46,7 +46,7 @@ const Winebar = () => {
       <section id="hero" className="relative h-[70vh] overflow-hidden">
         <div className="absolute inset-0 z-10 bg-black/60"></div>
         <img 
-          src="https://i.imgur.com/jnLMpdX_d.webp?maxwidth=760&fidelity=grand" 
+          src="blob:https://imgur.com/9180d2fb-9812-4ce6-9752-dc3d495869eb" 
           alt="Wine Bar" 
           className="w-full h-full object-cover"
         />
