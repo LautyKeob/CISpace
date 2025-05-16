@@ -44,7 +44,7 @@ const Index = () => {
           <Link to="/coworking" className="relative h-[50vh] md:h-screen/2 group overflow-hidden">
             <div className="absolute inset-0 bg-black/50 z-10 group-hover:bg-black/40 transition-colors"></div>
             <img 
-              src="https://media-cdn.tripadvisor.com/media/photo-s/19/8c/fa/11/event-room-from-the-cafe.jpg" 
+              src="https://i.imgur.com/ERyxrNu.jpeg" 
               alt="Coworking Space" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
             />
@@ -64,7 +64,7 @@ const Index = () => {
           <Link to="/winebar" className="relative h-[50vh] md:h-screen/2 group overflow-hidden">
             <div className="absolute inset-0 bg-black/50 z-10 group-hover:bg-black/40 transition-colors"></div>
             <img 
-              src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/8d/5b/3b/cafe-krone.jpg?w=1200&h=900&s=1" 
+              src="https://i.imgur.com/BNGvQV1.jpeg" 
               alt="Wine Bar" 
               className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
             />
