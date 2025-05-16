@@ -24,7 +24,7 @@ const Index = () => {
       alt: "CISpace Coworking Area" 
     },
     { 
-      src: "https://lh3.googleusercontent.com/places/ANJU3DtrFlqDm6KgCnck-Uq1s_lu7BzLw9RkrqaX4i5iRgE8AYoQbBDquGPKRpMiyQwa-TXPGmf-6HS7dIyYO-isIX_GcoHP59Ygzp0=s1600-w800", 
+      src: "https://i.imgur.com/Kga6Stt.jpeg", 
       alt: "CISpace Wine Bar" 
     },
     { 
