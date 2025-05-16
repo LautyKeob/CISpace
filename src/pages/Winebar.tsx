@@ -32,7 +32,7 @@ const Winebar = () => {
     "https://i.imgur.com/RSBRTih.jpeg",
     "https://i.imgur.com/8dkHo41.jpeg",
     "https://i.imgur.com/DqHevta.jpeg",
-    "https://images.unsplash.com/photo-1547595628-c61a29f496f0?q=80&w=1470&auto=format&fit=crop",
+    "https://i.imgur.com/Mn7rVuU.jpeg",
     "https://images.unsplash.com/photo-1597043851759-3b383a6d1c14?q=80&w=1374&auto=format&fit=crop",
     "https://www.splashwines.com/cdn/shop/files/P-FABFRENCHRED.png?v=1740176749",
     "https://www.virginwines.co.uk/hub/wp-content/uploads/2023/03/Different-wine-glass-shapes-and-sizes-on-a-white-surface-2560x1440.jpg",
