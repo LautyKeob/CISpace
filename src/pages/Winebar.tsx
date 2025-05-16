@@ -46,7 +46,7 @@ const Winebar = () => {
       <section id="hero" className="relative h-[70vh] overflow-hidden">
         <div className="absolute inset-0 z-10 bg-black/60"></div>
         <img 
-          src="blob:https://imgur.com/9180d2fb-9812-4ce6-9752-dc3d495869eb" 
+          src="blob:https://imgur.com/ezPItHd" 
           alt="Wine Bar" 
           className="w-full h-full object-cover"
         />
