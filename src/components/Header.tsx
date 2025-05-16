@@ -63,14 +63,14 @@ const Header = ({ navItems, logoUrl, logoWidth = 150, logoHeight = 40 }: HeaderP
         {/* Logo area */}
         <Link to="/" className="flex items-center">
             <img 
-              src="https://cispace.isaci.com/wp-content/uploads/2023/01/logo-vector-1-1.png"
+              src={logoUrl} 
               alt="CISpace Logo" 
               width={logoWidth} 
               height={logoHeight}
               className="object-contain"
             />
           ) : (
-            <div className="text-cispace-orange font-bold text-2xl"></div>
+            <div className="text-cispace-orange font-bold text-2xl">CISpace</div>
           )}
         </Link>
 
