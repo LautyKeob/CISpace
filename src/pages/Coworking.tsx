@@ -124,7 +124,7 @@ const Coworking = () => {
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <div className="h-48 relative overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80" 
+                  src="https://i.imgur.com/6K0SbT4.jpeg" 
                   alt="Student Flex Desk" 
                   className="w-full h-full object-cover transform transition-transform hover:scale-110"
                 />
