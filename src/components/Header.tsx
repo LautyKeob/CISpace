@@ -70,7 +70,7 @@ const Header = ({ navItems, logoUrl, logoWidth = 150, logoHeight = 40 }: HeaderP
               className="object-contain"
             />
           ) : (
-            <div className="text-cispace-orange font-bold text-2xl">CISpace</div>
+            <div className="text-cispace-orange font-bold text-2xl"></div>
           )}
         </Link>
 
