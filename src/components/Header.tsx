@@ -6,7 +6,7 @@ import { useTranslation } from '@/hooks/useTranslation';
 
 interface HeaderProps {
   navItems: { key: string; label: string; href: string }[];
-  logoUrl: https://cispace.isaci.com/wp-content/uploads/2023/01/logo-vector-1-1.png;
+  logoUrl: string;
   logoWidth: number;
   logoHeight: number;
 }
