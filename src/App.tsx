@@ -1,4 +1,3 @@
-
 import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -9,6 +8,10 @@ import Index from "./pages/Index";
 import Coworking from "./pages/Coworking";
 import Winebar from "./pages/Winebar";
 import VirtualTour from "./pages/VirtualTour";
+import Terms from "./pages/legal/Terms";
+import Privacy from "./pages/legal/Privacy";
+import LegalNotice from "./pages/legal/LegalNotice";
+import Cookies from "./pages/legal/Cookies";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -25,6 +28,10 @@ const App = () => (
             <Route path="/coworking" element={<Coworking />} />
             <Route path="/winebar" element={<Winebar />} />
             <Route path="/virtual-tour" element={<VirtualTour />} />
+            <Route path="/terms" element={<Terms />} />
+            <Route path="/privacy" element={<Privacy />} />
+            <Route path="/legal-notice" element={<LegalNotice />} />
+            <Route path="/cookies" element={<Cookies />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </BrowserRouter>
@@ -33,4 +40,4 @@ const App = () => (
   </QueryClientProvider>
 );
 
-export default App;
+export default App
