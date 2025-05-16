@@ -108,7 +108,7 @@ const Winebar = () => {
           <div className="flex flex-col md:flex-row-reverse items-center gap-8">
             <div className="md:w-1/3">
               <img 
-                src="assets/image/_TW84036.jpg" 
+                src="assets/image/wine-tasting.jpg" 
                 alt="Wine tasting" 
                 className="w-full h-auto rounded-lg shadow-md"
               />
