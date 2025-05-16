@@ -28,7 +28,7 @@ const Winebar = () => {
   const galleryImages = [
     "https://i.imgur.com/41MKmNQ.jpeg",
     "https://i.imgur.com/jnLMpdX_d.webp?maxwidth=760&fidelity=grand",
-    "https://i.imgur.com/y8RNkG3.jpeg",
+    "https://i.imgur.com/jnLMpdX_d.webp?maxwidth=760&fidelity=grand",
     "https://i.imgur.com/RSBRTih.jpeg",
     "https://i.imgur.com/8dkHo41.jpeg",
     "https://i.imgur.com/DqHevta.jpeg",
